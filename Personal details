@@ -1,0 +1,15 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Sharmila.T");
+      System.out.println("B.com PA");
+       System.out.println("Department of commerce");
+        System.out.println("VICAS");
+  System.out.println("Class incharge- Mrs.M.Karthika");
+  System.out.println("Father's name- K.Thangaraj");
+  System.out.println("Mother's name- T.Rathna");
+  System.out.println("Sister's name- T.Gayathri");
+  System.out.println("District- Karur");
+  System.out.println("Pincode- 638119");
+  
+  }
+}
