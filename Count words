@@ -1,0 +1,7 @@
+public class Main {
+  public static void main(String[] args) {
+    String words = "Vivekanandha college of arts and sciences for women";
+    int countWords = words.split("\\s").length;
+    System.out.println(countWords);
+  }
+}
